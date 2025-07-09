@@ -1,0 +1,73 @@
+/* font style start */
+
+open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* font style  end */
+
+/* Sherd Styles Start */
+.section-title{
+    color: #ffffff;
+    font-size: 72px;
+    text-align: center;
+
+}
+
+body{
+    margin:0 140px;
+}
+/* Sherd Styles end */
+
+/* Header start */
+header{
+    margin: 50px auto;
+}
+
+.head-banner{
+    background-image:
+    linear-gradient(to bottom,#070211 ,#07021100 ),
+    url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.banner{
+    padding: 170px 340px;
+}
+
+.banner-description{
+    font-size:32px ;
+    color: #ffffff;
+}
+/* Header end */
+
+/* discount section start */
+.discount{
+    text-align: center;
+    margin-top: 120px;
+}
+.discount-percent{
+    font-weight: bold;
+    font-size: 88px;
+    color: #ff0000;
+}
+
+.discount-description{
+    color: #ff0000;
+    font-size: 24px;
+}
+
+.discount-title{
+    color: #070211;
+    font-size: 48px;
+    
+}
+
+/* discount section ens */
