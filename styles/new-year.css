@@ -17,6 +17,11 @@ open-sans-<uniquifier> {
     text-align: center;
 
 }
+.section-description{
+    color: #ffffffa4;
+    font-size: 18px;
+
+}
 
 body{
     margin:0 140px;
@@ -71,3 +76,36 @@ header{
 }
 
 /* discount section ens */
+
+/* <!-- party section start --> */
+.party-section{
+    
+    background-image:
+    linear-gradient(to right,#070211e5 ,#07021100 ), url('../images/Vectorrr.png ');
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 16px;
+    text-align: left;
+    padding: 126px 550px 300px 126px;
+}
+
+.party-container{
+    
+}
+.party-title{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 64px;
+    width: 30%;
+}
+.party-description{
+    width: 30%;
+}
+.party-link{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+/* <!-- party section end --> */
