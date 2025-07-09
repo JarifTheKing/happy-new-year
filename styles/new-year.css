@@ -109,3 +109,34 @@ header{
     
 }
 /* <!-- party section end --> */
+
+/* <!-- Address section start --> */
+.address{
+    text-align: center;
+    background-image:linear-gradient(to bottom,#ff000031 ,#ff000000) ;
+    border-radius: 16px;
+    padding: 110px 385px;
+    margin-top: 120px;
+}
+
+.address-description-span{
+    color: #ff0000;
+    
+}
+.address-description{
+    font-size: 32px;
+    font-weight: 400;
+
+}
+
+.address-btn{
+    color: #ffffff;
+    background-color: #ff0000;
+    font-size: 20px;
+    font-weight:bold ;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* <!-- Address section end --> */
