@@ -140,3 +140,78 @@ header{
 }
 
 /* <!-- Address section end --> */
+
+/*<!-- coming offer start -->*/
+.offer-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 120px 0 120px 0;
+    }
+.offer-div{
+    margin-right: 70px;
+}
+/* div 1 */
+.offer-semiTitle{
+    color: #ff0000;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0;
+}
+.offer-title{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+}
+.offer-description{
+    color: #07021173;
+    font-size: 20px;
+}
+
+/* div 2 */
+.offer-img{
+    border: 10px solid red;
+    padding: 50px;
+    border-radius: 50%;
+}
+
+/* div 3 */
+.year{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 48px;
+}
+/*<!-- coming offer end -->*/
+
+/* sale-section start */
+.sale-section{
+    /* align-items: center; */
+    margin: 120px 140px;
+}
+.sale-text-container{
+    align-items: center;
+        text-align: center;
+        
+
+}
+.sale-semi-title{
+    color: #070211;
+    font-weight: 600;
+    font-size: 24px;
+}
+.sale-title-span{
+    color: #ff0000;
+}
+.sale-title{
+    color: #070211;
+    font-weight: bold;
+    font-size: 72px;
+}
+
+.sale-img-1{
+    position: relative;
+    top: 220px;
+    margin-right: 200px;
+}
+
+/* sale-section end */
